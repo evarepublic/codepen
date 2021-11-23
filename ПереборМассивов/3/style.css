@@ -1,0 +1,12 @@
+select { 
+  display: inline-block;
+}
+
+#city {
+  display: none;
+}
+
+.result {
+  margin: 15px 0;
+}
+
